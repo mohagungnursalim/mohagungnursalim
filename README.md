@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MOH. AGUNG NURSALIM aka Agung
 - 👀 I’m interested in Tech,Programming and Sport
-- ✨  I’m currently learning Laravel,Python & Data Analytics
+- ✨  I’m currently learning Laravel,Python,Dart & Data Analytics
 - 📫 How to reach me Email:mohagungnursalimwork@gmail.com
 
 <!---
