@@ -8,7 +8,7 @@
 
 
 - 📊 Data Visualization & Analytics   
-  <img width="30" height="30" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/><img src="https://camo.githubusercontent.com/5603e24b61199730db8d47721aeb6b7e6e0517ee6f43bb6762552a4d625607c9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" height="30" alt="python logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 100%;">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/google-looker.png" alt="google-looker"/> <img width="30" height="30" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/> <img src="https://camo.githubusercontent.com/5603e24b61199730db8d47721aeb6b7e6e0517ee6f43bb6762552a4d625607c9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" height="30" alt="python logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 100%;">
 
 
 
