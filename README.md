@@ -1,6 +1,4 @@
 - 👋 Hi, I’m MOH. AGUNG NURSALIM aka Agung
-- 👀 I’m interested in Tech,Programming and Sport
-- ✨  I’m currently learning Data Visualization & Data Analytics
 - 📫 How to reach me Email:mohagungnursalimworks@gmail.com
 
 - 👨‍💻 Programming Stack   
