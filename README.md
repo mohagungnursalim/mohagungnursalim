@@ -12,7 +12,7 @@
 <h4>Connect to me:</h4>
 <p><a href="https://www.linkedin.com/in/mohagungnursalim/"><img width="30" height="30" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a><a href="https://twitter.com/MAgungnursalim"><img width="30" height="30" src="https://img.icons8.com/ios-filled/30/twitterx--v1.png" alt="twitterx--v1"/></a></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohagungnursalim" alt="GitHub Streak" /></a>
+
 
 
 
