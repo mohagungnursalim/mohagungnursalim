@@ -7,7 +7,7 @@
 
   <img width="35" height="35" src="https://img.icons8.com/nolan/35/php-elephant.png" alt="php-elephant"/>
   <img width="35" height="35" src="https://img.icons8.com/nolan/35/laravel.png" alt="laravel"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
+  <img width="35" height="35" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
   <img width="35" height="35" src="https://img.icons8.com/stickers/35/mysql.png" alt="mysql"/>
 
 
