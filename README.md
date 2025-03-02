@@ -4,9 +4,12 @@
 
 - 📫 How to reach me Email:mohagungnursalimworks@gmail.com
 - 👨‍💻 Programming Stack
+
   <img width="35" height="35" src="https://img.icons8.com/nolan/35/php-elephant.png" alt="php-elephant"/>
   <img width="35" height="35" src="https://img.icons8.com/nolan/35/laravel.png" alt="laravel"/>
-
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
+  <img width="35" height="35" src="https://img.icons8.com/stickers/35/mysql.png" alt="mysql"/>
+<img width="100" height="100" src="https://img.icons8.com/color/100/linux-mint.png" alt="linux-mint"/>
 
 - 📊 Data Visualization & Data Analytics   
   <img width="30" height="30" src="https://img.icons8.com/color/48/google-looker.png" alt="google-looker"/> <img width="30" height="30" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/> <img src="https://camo.githubusercontent.com/5603e24b61199730db8d47721aeb6b7e6e0517ee6f43bb6762552a4d625607c9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" height="30" alt="python logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 100%;"> <img width="30" height="30" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img width="30" height="30" src="https://img.icons8.com/color/30/numpy.png" alt="numpy"/>
