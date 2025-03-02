@@ -11,7 +11,7 @@
   <img width="35" height="35" src="https://img.icons8.com/stickers/48/mysql.png" alt="mysql"/>
   <img width="35" height="35" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
   <img width="35" height="35" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
-  <img width="35" height="35" src="https://static.cdnlogo.com/logos/g/48/golang-gopher.svg">
+
 
 
 - 📊 Data Visualization & Data Analytics   
