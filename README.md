@@ -4,8 +4,8 @@
 
 - 📫 How to reach me Email:mohagungnursalimworks@gmail.com
 - 👨‍💻 Programming Stack
-- <img width="25" height="25" src="https://img.icons8.com/nolan/25/php-elephant.png" alt="php-elephant"/>
-- <img width="25" height="25" src="https://img.icons8.com/nolan/25/laravel.png" alt="laravel"/>
+  <img width="35" height="35" src="https://img.icons8.com/nolan/35/php-elephant.png" alt="php-elephant"/>
+  <img width="35" height="35" src="https://img.icons8.com/nolan/35/laravel.png" alt="laravel"/>
 
 
 - 📊 Data Visualization & Data Analytics   
