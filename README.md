@@ -9,7 +9,7 @@
   <img width="35" height="35" src="https://img.icons8.com/nolan/48/laravel.png" alt="laravel"/>
   <img width="35" height="35" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" alt="external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo"/>
   <img width="35" height="35" src="https://img.icons8.com/stickers/48/mysql.png" alt="mysql"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
+  <img width="35" height="35" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
 
 
 - 📊 Data Visualization & Data Analytics   
